@@ -20,7 +20,7 @@ Intallation
   
   pip install pyzbar
 
-
+![alt text](https://raw.githubusercontent.com/YashTalaiche/QR_CODE_Generator/main/QR_Code.png)
 
 
   
